@@ -1906,3 +1906,14 @@ section {
   border: 2px solid #fff;
   color: #fff;
 }
+
+#hero{
+  width: 100%;
+  height: 120vh;
+  background-color: rgba(60, 60, 60, 0.8);
+  overflow: hidden;
+  position: relative;
+  background-image: url("../img/cutout-adult-male-studio-emotions-scrubs.jpg");
+  background-position: center;
+  background-size: cover;
+}
